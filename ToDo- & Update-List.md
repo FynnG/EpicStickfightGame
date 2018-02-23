@@ -2,8 +2,9 @@
 
 Auftrag für **Edwin, Jonas, Fynn**
 
-*NUY*: Not Uploaded yet                                                                                                       
-*HTBM*: Has to be made
+*NUY*: Not Uploaded yet                                                                                                    <br/>
+*HTBM*: Has to be made                                                                                                     <br/>
+*CWB*: (has to be) created (by) WindowBuilder; otherwhise the *Design*-Tab is missing; *(Right-Click on package -> New -> Other -> WindowBuilder -> JFrame)* 
 
 **Updates:**                                                                                                               
 ---
@@ -12,10 +13,10 @@ Auftrag für **Edwin, Jonas, Fynn**
 
 **Java-Dateien:**                                                                                                          
 ---
--Options-Frame für Launcher; *bietet Auflösungseinstellung, Full-Screen-Option* | **_"FrameLauncherOptions.java"_** in Package *launcher*; *NUY*                                                                                                          <br/>
+-Options-Frame für Launcher; *bietet Auflösungseinstellung, Full-Screen-Option* | **_"FrameLauncherOptions.java"_** in Package *launcher*; *NUY* & *CWB*                                                                                                  <br/>
 -neues Package namens **_"additionalClasses"_**                                                                            <br/>
 -Externe Klasse für Auflösungsbearbeitung; *beeinhaltet switch-case-Anweisung für alle zulässigen Auflösungen; wird jedes Mal aufgerufen, um Objektgrößen auszurechnen* | **_"Resolution.java"_** in Package *additionalClasses*; *NUY*
--*additionalClasses* wird um **_ResolutionDifferenceCalculator.java"_** ergänzt; *dient dem Auslesen der Pixelgrößen in Bezug auf Breite und Höhe für beispielsweise Wide XGA (Eddies Auflösung); heißt Breite und Höhe eines Design für Full-HD eingeben und es rechnet Breite und Höhe für Wide XGA aus*; *NUY*
+-*additionalClasses* wird um **_ResolutionDifferenceCalculator.java"_** ergänzt; *dient dem Auslesen der Pixelgrößen in Bezug auf Breite und Höhe für beispielsweise Wide XGA (Eddies Auflösung); heißt Breite und Höhe eines Design für Full-HD eingeben und es rechnet Breite und Höhe für Wide XGA aus*; *NUY* & *CWB*  
 
 **Images:**                                                                                                               
 ---
