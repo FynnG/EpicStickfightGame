@@ -3,7 +3,7 @@
 *NPS:* Not Published yet
 
 **Updates:**
--**_"DesignBar.java"_** erhält zusätzliche Zeile *setOpaque(false);* zum Vorbeugen der fehlenden Transparenz; *NPS*
+-**_"DesignBar.java"_** erhält zusätzliche Zeile *setOpaque(false);* zum Vorbeugen der fehlenden Transparenz; *NPS* <br />
 -entsprechend der *FrameLauncherOptions.java*-Datei erweitert sich auch der Quellcode in **_"Launcher.java"_**; *NPS*
 
 **Java-Dateien:**
