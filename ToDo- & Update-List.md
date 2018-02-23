@@ -5,28 +5,33 @@ Auftrag für **Edwin, Jonas, Fynn**
 *NUY*: Not Uploaded yet                                                                                                       
 *HTBM*: Has to be made
 
-**Updates:**                                                                                                               <br/>
+**Updates:**                                                                                                               
+---
 -**_"DesignBar.java"_** erhält zusätzliche Zeile *setOpaque(false);* zum Vorbeugen der fehlenden Transparenz; *NUY*        <br/>
 -entsprechend der *FrameLauncherOptions.java*-Datei erweitert sich auch der Quellcode in **_"Launcher.java"_**; *NUY*
 
-**Java-Dateien:**                                                                                                          <br/>
+**Java-Dateien:**                                                                                                          
+---
 -Options-Frame für Launcher; *bietet Auflösungseinstellung, Full-Screen-Option* | **_"FrameLauncherOptions.java"_** in Package *launcher*; *NUY*                                                                                                          <br/>
 -neues Package namens **_"additionalClasses"_**                                                                            <br/>
 -Externe Klasse für Auflösungsbearbeitung; *beeinhaltet switch-case-Anweisung für alle zulässigen Auflösungen; wird jedes Mal aufgerufen, um Objektgrößen auszurechnen* | **_"Resolution.java"_** in Package *additionalClasses*; *NUY*
 -*additionalClasses* wird um **_ResolutionDifferenceCalculator.java"_** ergänzt; *dient dem Auslesen der Pixelgrößen in Bezug auf Breite und Höhe für beispielsweise Wide XGA (Eddies Auflösung); heißt Breite und Höhe eines Design für Full-HD eingeben und es rechnet Breite und Höhe für Wide XGA aus*; *NUY*
 
-**Images:**                                                                                                                <br/>
+**Images:**                                                                                                               
+---
 -**_"PlayMenuNormalGameButton.png"_** für Normal-Game-JButton, **_"PlayMenuRankedButton.png"_** für Ranked-JButton, **_"PlayMenuChaosModeButton.png_** für Chaos-Mode-JButton, **_"PlayMenuCustomGameButton.png"_** für Custom-Game-JButton; *alle in **Breite: 230px** und **Höhe: 420px***; *HTBM*                                                                          <br/>
 -Design für **_"btnBack"_**-Button in *panelMainMenu* und *panelPlayMenu* um zum zuvorrigen Panel zu gelangen; ***Breite: 160px** und **Höhe: 40px***; *HTBM*                                                                                        <br/>
 -Neue Maps designen; ***Breite: 1920px** und **Höhe: 1080px***; *HTBM*
 
-**Nachrichten:**                                                                   				                          		   <br/>
+**Nachrichten:**                                                                   				                          		   
+---
 **@Eddie**: *Hast du **1366x768** oder **1360x768**  als Bildschirmauflösung?*                                             <br/>
 **@all**: *In Zukunft wird es ein Bild geben, das den Project-Tree anzeigt, um die Vervollständigung des Projektordners zu vereinfachen*                                                                                                              <br/>
 **@all:** *Was hält ihr davon, wenn der Mauscursor zu einer Hand wird (gewöhnlicher HAND_CURSOR), sobald er sich über einem Button befindet, bzw sollen wir einen eigenen Cursor für InGame designen?*                                                 <br/>
 **@Jonas:** *Du wirst wohl bald für **ALLE** Designs eine Zweitdatei passend zu Edwins Bildschirmauflösung machen müssen.*
 
-**Antworten:**                                                                                                             <br/>
+**Antworten:**                                                                                                            
+---
 *In die folgenden Zeilen schreiben:*                                                                                       <br/>
 
 
