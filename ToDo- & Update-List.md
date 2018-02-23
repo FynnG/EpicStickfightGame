@@ -21,4 +21,4 @@
 **@Eddie**: *Hast du **1366x768** oder **1360x768**  als Bildschirmauflösung?*                                                <br/>
 **@all**: *In Zukunft wird es ein Bild geben, das den Project-Tree anzeigt, um die Vervollständigung des Projektordners zu vereinfachen*                                                                                                                 <br/>
 **@all:** *Was hält ihr davon, wenn der Mauscursor zu einer Hand wird (gewöhnlicher HAND_CURSOR), sobald er sich über einem Button befindet, bzw sollen wir einen eigenen Cursor für InGame designen?*                                                           <br/>
-**@Jonas:** *Du wirst wohl bald für **ALLE** Designs eine Zweitdatei passend zu Edwins Bildschirmauflösung machen müssen.
+**@Jonas:** *Du wirst wohl bald für **ALLE** Designs eine Zweitdatei passend zu Edwins Bildschirmauflösung machen müssen.*
