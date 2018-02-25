@@ -1,4 +1,4 @@
-**_Fynn: Ich plage mich gerade noch mit Java-9-Problemen umher, wenn ich diese in Griff bekomme, kann ich weiter programmieren und euch erklären, wie ihr zu JavaSE 9.0.4 updaten könnt._**
+**_Fynn: Scheinbar ist WindowBuilder noch nicht kompatibel mit JavaSE 9. Daher werden wir weiterhin auf Java SE 1.8 programmieren._**
 
 Auftrag für **Edwin, Jonas, Fynn**
 
